@@ -1,16 +1,10 @@
 
 
-class a
+class aASASD
 {
 
 	
 }
-
-class b extends a
-{
-	
-}
-
 
 public class asd
 {
@@ -18,6 +12,8 @@ public class asd
 	public static void main(String[] args)
 	{
 		// TODO Auto-generated method stub
+		
+		aasasdSD
 
 	}
 
