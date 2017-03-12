@@ -9,7 +9,7 @@ public class tesee {
 	{
 		
 		HashSet hset = func();
-		
+/*hello work Made some changes */
 		
 /*		String str1 = "A Hello  how  Are  you  ";
 		String first1 = str1.toUpperCase().trim();
