@@ -7,6 +7,9 @@ public class tesee {
 
 	public static void main(String arg[])
 	{
+		//Addding private variable 
+		private int priVar;
+		private String priStr;
 		
 		HashSet hset = func();
 /*hello work Made some changes */
