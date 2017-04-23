@@ -5,6 +5,10 @@ import java.io.FileReader;
 import java.util.HashMap;
 
 public class stringdelimiter {
+	
+	//Adding new private varible
+	private int ram;
+	private String mohan;
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
